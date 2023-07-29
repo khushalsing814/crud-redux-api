@@ -1,0 +1,46 @@
+{
+    "data": [
+      {
+        "title": "developer",
+        "author": "Manu",
+        "gender": "male",
+        "id": 1
+      },
+      {
+        "title": "singer",
+        "author": "khusha;",
+        "gender": "male",
+        "id": 2
+      },
+      {
+        "title": "actress",
+        "author": "Angel",
+        "gender": "female",
+        "id": 3
+      },
+      {
+        "title": "actor",
+        "author": "Thakur",
+        "gender": "male",
+        "id": 4
+      },
+      {
+        "title": "model",
+        "author": "Rajput",
+        "gender": "male",
+        "id": 5
+      },
+      {
+        "title": "ds",
+        "author": "sd",
+        "gender": "male",
+        "id": 6
+      },
+      {
+        "title": "e",
+        "author": "ewe",
+        "gender": "male",
+        "id": 7
+      }
+    ]
+  }
