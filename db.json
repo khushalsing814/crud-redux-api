@@ -37,10 +37,22 @@
         "id": 6
       },
       {
-        "title": "e",
+        "title": "essa",
         "author": "ewe",
         "gender": "male",
         "id": 7
+      },
+      {
+        "title": "punajabi singer",
+        "author": "sidhu moose wala",
+        "gender": "male",
+        "id": 8
+      },
+      {
+        "title": "best singer",
+        "author": "guru randhawa",
+        "gender": "male",
+        "id": 9
       }
     ]
   }
